@@ -14,20 +14,13 @@
     "nacionalidad": "España",
     "edad": 21,
     "imagenUrl": "https://i.imgur.com/def456.png"
-  }
-]{
-    "nombre": "Lionel Messi",
-    "dorsal": 10,
-    "edad": 36,
-    "nacionalidad": "Argentina",
-    "posicion": "Delantero",
-    "imagenUrl": "https://i.imgur.com/abc123.png"
   },
   {
-    "nombre": "Pedri",
-    "dorsal": 8,
-    "edad": 21,
-    "nacionalidad": "España",
-    "posicion": "Mediocampista",
-    "imagenUrl": "https://i.imgur.com/def456.png"
+    "nombre": "Cristiano Ronaldo",
+    "dorsal": 7,
+    "posicion": "Delantero",
+    "nacionalidad": "Portugal",
+    "edad": 41,
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg"
   }
+]
