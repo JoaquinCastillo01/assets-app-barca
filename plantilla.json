@@ -1,4 +1,21 @@
-{
+[
+  {
+    "nombre": "Lionel Messi",
+    "dorsal": 10,
+    "posicion": "Delantero",
+    "nacionalidad": "Argentina",
+    "edad": 36,
+    "imagenUrl": "https://i.imgur.com/abc123.png"
+  },
+  {
+    "nombre": "Pedri",
+    "dorsal": 8,
+    "posicion": "Mediocampista",
+    "nacionalidad": "España",
+    "edad": 21,
+    "imagenUrl": "https://i.imgur.com/def456.png"
+  }
+]{
     "nombre": "Lionel Messi",
     "dorsal": 10,
     "edad": 36,
